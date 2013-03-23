@@ -7,7 +7,7 @@ public class BlockKMore extends Block{
 
 	public BlockKMore(, Material par2Material) {
 		super(par1, par2Material);
-		// TODO Auto-generated constructor stub
+
 	}
 
 }
